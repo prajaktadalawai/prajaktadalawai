@@ -84,9 +84,9 @@ I am an Artificial Intelligence and Machine Learning Engineer focused on develop
   
   <br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prajaktadalawai&theme=transparent&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=prajaktadalawai&theme=transparent&hide_border=true" alt="Streak Stats" />
 
   <br/><br/>
   
-  <img src="https://visitcount.itsvg.in/api?id=prajaktadalawai&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=prajaktadalawai&color=blue&style=flat-square" alt="Visitor Count" />
 </div>
