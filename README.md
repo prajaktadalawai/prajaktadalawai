@@ -30,22 +30,32 @@ I am an Artificial Intelligence and Machine Learning Engineer focused on develop
 * **Web & Backend**: FastAPI, REST APIs, HTML, CSS, PostgreSQL, MySQL
 * **Tools & Platforms**: Git, GitHub, AWS, Docker, Linux, Raspberry Pi, Power BI
 
----
-
 ### Selected Projects
 
-#### Small Language Model Assistant
+<details>
+<summary><strong>Small Language Model Assistant</strong> (Click to expand)</summary>
+<br>
+
 * Developed an offline, edge-native industrial SLM diagnostic assistant deployed on Raspberry Pi 4.
-* Integrated Phi-3 Mini, llama.cpp, ChromaDB, and RAG to enable high-accuracy domain-specific diagnostics within air-gapped facilities.
+* Integrated Phi-3 Mini, `llama.cpp`, ChromaDB, and RAG to enable high-accuracy domain-specific diagnostics within air-gapped facilities.
 * Achieved a RAG MRR of 0.83 and TTFT of 2.4 seconds under tight hardware memory constraints.
+</details>
 
-#### NyayaGyan: AI-Powered Legal Assistant
-* Architected a role-based legal assistant using LLMs, LangChain (RAG), Neo4j, and PostgreSQL pgvector.
+<details>
+<summary><strong>NyayaGyan: AI-Powered Legal Assistant</strong> (Click to expand)</summary>
+<br>
+
+* Architected a role-based legal assistant using LLMs, LangChain (RAG), Neo4j, and PostgreSQL `pgvector`.
 * Implemented multi-user document drafting, case-law retrieval, and hybrid search combining BM25 and vector embeddings.
+</details>
 
-#### GMNE: Generative Multi-Physics Neural Emulator
+<details>
+<summary><strong>GMNE: Generative Multi-Physics Neural Emulator</strong> (Click to expand)</summary>
+<br>
+
 * Built a Physics-Informed Neural Network (PINN) and DDPM emulator to accelerate high-latency CFD/FEM-based hydrogen electrolyzer simulations.
 * Achieved $R^2 > 0.94$ with under 100ms inference latency, providing robust uncertainty estimation.
+</details>
 
 ---
 
@@ -56,12 +66,22 @@ I am an Artificial Intelligence and Machine Learning Engineer focused on develop
 ---
 
 ### Honors & Leadership
+
 * **National-Level Hackathon Winner** — IEEE NeoNexus 36.0
 * **Google's The Big Code Qualifier** — Top 15,000 Globally
 * **AIR 2346 (99.5 Percentile)** — AINCAT 2026
 * **Balayogini Award Recipient**
 * **General Secretary** — College Student Body
+
+<details>
+<summary><strong>Extracurriculars & Athletics</strong> (Click to expand)</summary>
+<br>
+
 * **National-Level Karate Gold Medalist**
+* **NSS State-Level Conference** — First Place
+* **National Level Talk Masters** — First Place
+* Active participant in Public Speaking, Debate, and Elocution competitions
+</details>
 
 ---
 
@@ -85,8 +105,4 @@ I am an Artificial Intelligence and Machine Learning Engineer focused on develop
   <br/>
 
   <img src="https://streak-stats.demolab.com/?user=prajaktadalawai&theme=transparent&hide_border=true" alt="Streak Stats" />
-
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=prajaktadalawai&color=blue&style=flat-square" alt="Visitor Count" />
 </div>
