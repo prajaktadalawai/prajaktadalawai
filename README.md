@@ -1,22 +1,22 @@
 <div align="center">
 
-<br>
-
-# Prajakta Dalawai
-
-**AI Engineer &nbsp;·&nbsp; ML Developer &nbsp;·&nbsp; Researcher**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6eb4,40:ff8fcf,100:ffb3d9&height=180&section=header&text=Prajakta%20Dalawai&fontSize=58&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=19&pause=1400&color=FF6EB4&center=true&vCenter=true&width=850&lines=AI+Engineer+%E2%80%94+building+things+that+actually+work+in+the+real+world;Invited+to+present+%26+publish+at+IEEE+IRAI+2026%2C+Melbourne;NeoNexus+National+Hackathon+Champion+%F0%9F%90%BE;AINCAT+99.5+Percentile+%7C+GSSoC+2026+Contributor;Edge+AI+%7C+LLMs+%7C+Physics-Informed+Neural+Networks" alt="Typing SVG"/>
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajaktadalawai)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajaktadalawai@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajaktadalawai@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajaktadalawai)
 
 <br>
 
-*B.E. Computer Science & Engineering &nbsp;·&nbsp; SGBIT Belagavi &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA 9.01*
+*B.E. Computer Science &amp; Engineering &nbsp;·&nbsp; SGBIT Belagavi &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA 9.01*
 
 <br>
 
@@ -31,11 +31,15 @@
   \_____/
 ```
 
+I build AI systems that work in the real world — offline, on the edge, and at scale. My work sits at the intersection of **Large Language Models**, **Physics-Informed Neural Networks**, and edge deployment, with a focus on systems that are actually deployable, not just impressive on paper.
+
 Currently pursuing my B.E. in Computer Science while contributing to open source, competing nationally, and doing research that has been **invited to present and publish at IEEE IRAI 2026 in Melbourne, Australia**. When debugging isn't eating my time, a cat definitely is.
 
 <br>
 
 ### 🐾 What I've Built
+
+<br>
 
 **Edge-Native Industrial SLM Diagnostic Assistant**
 
@@ -71,13 +75,17 @@ Agentic AI system automating Know-Your-Business due diligence in corporate finan
 
 ### 🐾 Experience
 
-**Machine Learning Intern** &nbsp;|&nbsp; Fox Trading &nbsp;|&nbsp; Sep 2025 – Nov 2025
+<br>
+
+**Machine Learning Intern** &nbsp;·&nbsp; Fox Trading &nbsp;·&nbsp; Sep 2025 – Nov 2025
 
 Demand forecasting models using SVM and Linear Regression with advanced feature engineering. Evaluated model quality using R² metrics across multiple market segments.
 
 <br>
 
 ### 🐾 Recognition
+
+<br>
 
 <div align="center">
 
@@ -98,6 +106,8 @@ Demand forecasting models using SVM and Linear Regression with advanced feature 
 <br>
 
 ### 🐾 Technical Skills
+
+<br>
 
 <div align="center">
 
@@ -123,6 +133,8 @@ Demand forecasting models using SVM and Linear Regression with advanced feature 
 
 ### 🐾 Activity
 
+<br>
+
 <div align="center">
 
 <picture>
@@ -131,14 +143,14 @@ Demand forecasting models using SVM and Linear Regression with advanced feature 
   <img alt="Contribution Graph Snake" src="https://raw.githubusercontent.com/prajaktadalawai/prajaktadalawai/output/github-snake.svg">
 </picture>
 
-<br/><br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=prajaktadalawai&theme=rose_pine&hide_border=true&ring=a855f7&fire=ec4899&currStreakLabel=7c3aed" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=prajaktadalawai&theme=rose_pine&hide_border=true&ring=FF6EB4&fire=FF8FCF&currStreakLabel=FF6EB4" alt="Streak Stats"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<sub>🐾 &nbsp; built with care, caffeine, and one too many cat breaks &nbsp; 🐾</sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb3d9,40:ff8fcf,100:ff6eb4&height=80&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn"/>
 </div>
