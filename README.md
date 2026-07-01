@@ -43,7 +43,7 @@ Currently pursuing my B.E. in Computer Science while contributing to open source
 
 **Edge-Native Industrial SLM Diagnostic Assistant**
 
-An offline AI diagnostic assistant running entirely on a **Raspberry Pi 4** — no internet, no cloud, no compromise. Built for air-gapped industrial environments. Phi-3 Mini + `llama.cpp` + ChromaDB + full RAG pipeline. Retrieval MRR: 0.83. Time-to-first-token: 2.4s on constrained hardware.
+I built this to answer a simple question: what if the AI just worked, even with zero internet? It runs Phi-3 Mini on a Raspberry Pi 4 using `llama.cpp`, with a RAG pipeline backed by ChromaDB. The target was air-gapped industrial facilities. Got retrieval MRR to 0.83 and kept time-to-first-token under 2.4s on hardware that costs less than a textbook.
 
 `Python` `llama.cpp` `ChromaDB` `LangChain` `Raspberry Pi 4`
 
@@ -51,7 +51,7 @@ An offline AI diagnostic assistant running entirely on a **Raspberry Pi 4** — 
 
 **NyayaGyan — Legal Intelligence Platform**
 
-Role-based AI legal assistant for document drafting, case-law retrieval, and intelligent search. Hybrid retrieval combining BM25 and dense vector embeddings over a Neo4j legal knowledge graph. Multi-user architecture with PostgreSQL pgvector for semantic similarity at scale.
+Legal research is slow, expensive, and inaccessible. NyayaGyan is my attempt to change that. It uses hybrid BM25 and vector search over a Neo4j knowledge graph so users can find relevant case law and draft documents without needing a lawyer to interpret everything. Built for multiple user roles with pgvector handling semantic similarity under the hood.
 
 `LangChain` `LangGraph` `Neo4j` `PostgreSQL pgvector` `FastAPI`
 
@@ -59,7 +59,7 @@ Role-based AI legal assistant for document drafting, case-law retrieval, and int
 
 **GMNE — Generative Multi-Physics Neural Emulator**
 
-Physics-Informed Neural Networks and DDPM models replacing slow CFD/FEM hydrogen electrolyzer simulations. Achieves R² > 0.94 against ground-truth simulation data. Inference latency under 100ms. Includes uncertainty quantification as a first-class output.
+Traditional CFD simulations for hydrogen electrolyzers take hours to run. I trained a PINN and DDPM-based emulator to replace them and got R² above 0.94 against ground-truth data, with inference completing in under 100ms. Added uncertainty estimates so the predictions are actually trustworthy, not just fast.
 
 `PyTorch` `PINNs` `DDPM` `NumPy` `SciPy`
 
@@ -67,7 +67,7 @@ Physics-Informed Neural Networks and DDPM models replacing slow CFD/FEM hydrogen
 
 **Autonomous KYB Agent — Corporate Due Diligence**
 
-Agentic AI system automating Know-Your-Business due diligence in corporate finance. Multi-agent orchestration for document extraction, risk flagging, and structured report generation.
+KYB due diligence involves going through hundreds of company documents to flag risks. I built a multi-agent system using LangGraph that does the heavy lifting automatically: extracts information, checks for red flags, and generates a structured report ready for review.
 
 `LangGraph` `LLMs` `FastAPI` `Python`
 
@@ -79,7 +79,7 @@ Agentic AI system automating Know-Your-Business due diligence in corporate finan
 
 **Machine Learning Intern** &nbsp;·&nbsp; Fox Trading &nbsp;·&nbsp; Sep 2025 – Nov 2025
 
-Demand forecasting models using SVM and Linear Regression with advanced feature engineering. Evaluated model quality using R² metrics across multiple market segments.
+Worked on demand forecasting for trading markets using SVM and Linear Regression. A lot of it was feature engineering and figuring out what the model actually needed versus what seemed useful at first glance. Tracked performance with R² across different market segments.
 
 <br>
 
