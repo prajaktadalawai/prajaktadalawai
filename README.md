@@ -131,25 +131,7 @@ Worked on demand forecasting for trading markets using SVM and Linear Regression
 
 <br>
 
-### 🐾 Activity
 
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajaktadalawai/prajaktadalawai/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajaktadalawai/prajaktadalawai/output/github-snake.svg">
-  <img alt="Contribution Graph Snake" src="https://raw.githubusercontent.com/prajaktadalawai/prajaktadalawai/output/github-snake.svg">
-</picture>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=prajaktadalawai&theme=rose_pine&hide_border=true&ring=FF6EB4&fire=FF8FCF&currStreakLabel=FF6EB4" alt="Streak Stats"/>
-
-</div>
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb3d9,40:ff8fcf,100:ff6eb4&height=80&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn"/>
